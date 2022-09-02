@@ -1,0 +1,8 @@
+C:\Users\aprakas\Documents\Projects\c# programs\exercise2\exercise2\bin\Debug\exercise2.exe.config
+C:\Users\aprakas\Documents\Projects\c# programs\exercise2\exercise2\bin\Debug\exercise2.exe
+C:\Users\aprakas\Documents\Projects\c# programs\exercise2\exercise2\bin\Debug\exercise2.pdb
+C:\Users\aprakas\Documents\Projects\c# programs\exercise2\exercise2\obj\Debug\exercise2.csproj.AssemblyReference.cache
+C:\Users\aprakas\Documents\Projects\c# programs\exercise2\exercise2\obj\Debug\exercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aprakas\Documents\Projects\c# programs\exercise2\exercise2\obj\Debug\exercise2.csproj.CoreCompileInputs.cache
+C:\Users\aprakas\Documents\Projects\c# programs\exercise2\exercise2\obj\Debug\exercise2.exe
+C:\Users\aprakas\Documents\Projects\c# programs\exercise2\exercise2\obj\Debug\exercise2.pdb
